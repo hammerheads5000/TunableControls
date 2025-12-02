@@ -540,7 +540,7 @@ public class TunableControls {
      * <i>Note: For non-motion-profiled control, use
      * {@link TunablePIDController}.</i>
      */
-    public class TunableProfiledController {
+    public static class TunableProfiledController {
         private final ProfiledPIDController profiledPIDController;
         private final TunableControlConstants params;
 
