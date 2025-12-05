@@ -49,5 +49,6 @@ Feedforward constants (`kS`, `kG`, `kV`, `kA`) are continuously updated. The res
 ## Planned Features
 - [ ] Make into installable vendordep
 - [ ] Add option for ArmFeedforward
+- [ ] Add ability to enable/disable
 - [ ] Add "slots" feature (different sets of parameters that can be switched between)
 - [ ] Add version that integrates with [AtlantisKit](https://github.com/Atlantis2679/AtlantisKit)
